@@ -3,4 +3,4 @@
  
  app https://ultrontheai.github.io/JSChatAPP/SK%20Chat.apk
  
- video https://drive.google.com/file/d/18o0_drSHsH7QkxyNas_Ju5-8MgHCVbmm/view?usp=sharing
+ video https://drive.google.com/file/d/14IXLiVuOCR6JEbjDJhoMVJw88tdTTpfF/view?usp=sharing
